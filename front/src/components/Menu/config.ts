@@ -86,32 +86,14 @@ const config: MenuEntry[] = [
       {
         label: 'Github',
         href: 'https://github.com/Zer0-crypto/Cyberswap',
-        target: '_blank',
       },
-      // {
-      //   label: 'Docs',
-      //   href: 'https://doc.thexdao.com/',
-      //   target: '_blank',
-      // },
-      // {
-      //   label: 'Blog',
-      //   href: 'https://cyberswaptokendex.medium.com/',
-      //   target: '_blank',
-      // },
-      // {
-      //   label: 'Announcements',
-      //   href: 'https://t.me/cyberswaptoken',
-      //   target: '_blank',
-      // },
       {
         label: 'Telegram',
         href: 'https://t.me/thexfoundationdiscussion',
-        target: '_blank',
       },
       {
         label: 'Discord',
         href: 'https://discord.gg/BvgpHXDtRQ',
-        target: '_blank',
       },
     ],
   },
