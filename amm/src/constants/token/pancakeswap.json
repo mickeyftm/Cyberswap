@@ -1,0 +1,266 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wftm.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Hertz Token",
+      "symbol": "HTZ",
+      "address": "0x68F7880F7af43a81bEf25E2aE83802Eb6c2DdBFD",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "chainId": 250,
+      "decimals": 8
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+      "chainId": 250,
+      "decimals": 6
+    },
+    {
+      "name": "Cover Protocol Governance",
+      "symbol": "COVER",
+      "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Cream",
+      "symbol": "CREAM",
+      "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Spice",
+      "symbol": "SFI",
+      "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Sushi",
+      "symbol": "SUSHI",
+      "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Synthetix Network",
+      "symbol": "SNX",
+      "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "ChainLink",
+      "symbol": "LINK",
+      "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Fantom USD",
+      "symbol": "fUSD",
+      "address": "0xad84341756bf337f5a0164515b1f6f993d194e1f",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "ZOO",
+      "symbol": "ZOO",
+      "address": "0x09e145a1d53c0045f41aeef25d8ff982ae74dd56",
+      "chainId": 250,
+      "decimals": 0
+    },
+    {
+      "name": "IceToken",
+      "symbol": "ICE",
+      "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Frax",
+      "symbol": "FRAX",
+      "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "BitBean",
+      "symbol": "BITB",
+      "address": "0xbac5d43a56696e5d0cb631609e85798f564b513b",
+      "chainId": 250,
+      "decimals": 0
+    },
+    {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "address": "0x82F8Cb20c14F134fe6Ebf7aC3B903B2117aAfa62",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Frapped USDT",
+      "symbol": "fUSDT",
+      "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+      "chainId": 250,
+      "decimals": 6
+    },
+    {
+      "name": "ANY Token",
+      "symbol": "ANY",
+      "address": "0xdDcb3fFD12750B45d32E084887fdf1aABAb34239",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "CzTears",
+      "symbol": "CZTEARS",
+      "address": "0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Binance",
+      "symbol": "BNB",
+      "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Woofy",
+      "symbol": "WOOFY",
+      "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+      "chainId": 250,
+      "decimals": 12
+    },
+    {
+      "name": "Supra Token",
+      "symbol": "SUPRA",
+      "address": "0xee90fAF3216dFAE5E8aC1f3F48f10527f38fFf78",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "MMToken",
+      "symbol": "MM",
+      "address": "0xbFaf328Fe059c53D936876141f38089df0D1503D",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Graviton",
+      "symbol": "GTON",
+      "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Frankenstein Finance",
+      "symbol": "FRANK",
+      "address": "0xeb86B05cFEE3e48DB9a44275701Ed099462c8ba0",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Beefy.Finance",
+      "symbol": "BIFI",
+      "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "Steak Token",
+      "symbol": "STEAK",
+      "address": "0x05848B832E872d9eDd84AC5718D58f21fD9c9649",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "iFUSD",
+      "symbol": "iFUSD",
+      "address": "0x9fC071cE771c7B27b7d9A57C32c0a84c18200F8a",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "ProjectMars Token",
+      "symbol": "MARS",
+      "address": "0xbe41772587872a92184873d55b09c6bb6f59f895",
+      "chainId": 250,
+      "decimals": 9
+    },
+    {
+      "name": "Shiba",
+      "symbol": "SHIBA",
+      "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
+      "chainId": 250,
+      "decimals": 9
+    },
+    {
+      "name": "Ester Token",
+      "symbol": "EST",
+      "address": "0x181f3f22c9a751e2ce673498a03e1fdfc0ebbfb6",
+      "chainId": 250,
+      "decimals": 18
+    }
+  ]
+}
