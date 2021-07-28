@@ -1,5 +1,5 @@
 import React from 'react'
-import { Tag, VerifiedIcon, CommunityIcon, FantomIcon } from '@pancakeswap-libs/uikit'
+import { Tag, VerifiedIcon, CommunityIcon, MenuIcon } from '@pancakeswap-libs/uikit'
 
 const CoreTag = (props) => (
   <Tag variant="secondary" outline startIcon={<VerifiedIcon />} {...props}>
@@ -14,7 +14,7 @@ const CommunityTag = (props) => (
 )
 
 const FantomTag = (props) => (
-  <Tag variant="binance" outline startIcon={<FantomIcon />} {...props}>
+  <Tag variant="binance" outline startIcon={<MenuIcon />} {...props}>
     Fantom
   </Tag>
 )
